@@ -1,24 +1,19 @@
-# README
+# Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my Javascript project for keeping track of Video Games that you may have purchased. It's a Javascript frontend with a Rails backend.
+# Installation Instructions
 
-Things you may want to cover:
+- Fork and clone this repo.
 
-* Ruby version
+- Run
 
-* System dependencies
+`bundle install`
 
-* Configuration
+- To set up and seed the database
 
-* Database creation
+` rake db:migrate`
+` rake db:seed`
 
-* Database initialization
+- To run the Rails server;
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+` rails s`
