@@ -17,3 +17,11 @@ This is my Javascript project for keeping track of Video Games that you may have
 - To run the Rails server;
 
 ` rails s`
+
+- With your Rails Server running, please navigate to: https://github.com/mattjmason/jsproject_frontend and then fork and clone the repo.
+
+- Be sure that you're on the frontend repo and open the file: index.html
+
+# License
+
+The gem is available as open source under the terms of the MIT License.
